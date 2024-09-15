@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-This is Awesome Daily Manager, an agent dedicated to solving tasks on a daily basis.
+This is Awesome Daily Manager, an agent dedicated to solving tasks on a daily basis especially, with groceries(first).
+
+These days, we are too busy drowning into our work and study, it is hard to remember every 'Best Before' Date for our food in the frige or shelves. This application can remind you expired food, suggest menu for your meals... 
+
+All for Saving time and Make Life Easier!
 
 ## 🙋‍♀️ Introduction
 
