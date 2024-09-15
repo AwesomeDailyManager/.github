@@ -7,7 +7,22 @@ This is Awesome Daily Manager, an agent dedicated to solving tasks on a daily ba
 We are a passionate student team from China, dedicated to enhancing everyday happiness through the power of AI and robotics. Our mission is to blend cutting-edge technology with heartfelt innovation to make daily life not just more efficient, but more joyful and fulfilling.
 
 ## 🔥 New
-* [2024.09.15] We’re delighted to present Awesome Daily Manager: Your ultimate assistant for a more organized and efficient life!
+
+### 🚀 Latest Updates
+
+- **September 15, 2024**: We’re delighted to present Awesome Daily Manager: Your ultimate assistant for a more organized and efficient life!
+
+### 📢 Announcements
+
+- **Upcoming Demo**: We’re thrilled to announce that the first demo version of our project is almost here! 🌟
+
+### 🛠️ Maintenance & Downtime
+
+- **Scheduled Maintenance**: Our project is currently in the works, and we can’t wait to share it with you. We're pouring our hearts and souls into making it as amazing as possible, and we're so close to bringing it to life.
+
+---
+
+Stay tuned for more updates and thank you for your continued support!
 
 <!--
 
