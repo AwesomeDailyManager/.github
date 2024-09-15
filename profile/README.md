@@ -2,6 +2,13 @@
 
 This is Awesome Daily Manager, an agent dedicated to solving tasks on a daily basis.
 
+## 🙋‍♀️ Introduction
+
+We are a passionate student team from China, dedicated to enhancing everyday happiness through the power of AI and robotics. Our mission is to blend cutting-edge technology with heartfelt innovation to make daily life not just more efficient, but more joyful and fulfilling.
+
+## 🔥 New
+* [2024.09.15] We’re delighted to present Awesome Daily Manager: Your ultimate assistant for a more organized and efficient life!
+
 <!--
 
 **Here are some ideas to get you started:**
